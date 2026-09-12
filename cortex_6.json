@@ -1,0 +1,15 @@
+{
+  "name": "cyber-reactor-1336",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 3750,
+    "createdAt": "2026-09-12T12:41:11.905Z"
+  }
+}
